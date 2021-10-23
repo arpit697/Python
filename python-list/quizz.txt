@@ -1,0 +1,23 @@
+- pyramid
+- left pyramid
+- right pyramid
+- Leap Year Program In Python
+- Prime Number Program In Python
+- Program To Find Area In Python
+- Program To Reverse A List In Python
+- sum of n natural number
+- average of a list
+- separate even and odd numbers in list
+- get smaller element
+- list comprehensions examples
+- set comprehensions examples
+- dictionary comprehensions examples
+- finding largest element in list
+- check weather the list is sorted or not
+- odd occurrences
+- reverse the List
+- left rotate list
+- left rotate by d place
+- element insert at index
+- Get Element At Index
+- Maximum and Minimum element in list
